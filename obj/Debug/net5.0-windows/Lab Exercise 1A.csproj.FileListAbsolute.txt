@@ -1,0 +1,20 @@
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.csprojAssemblyReference.cache
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.AssemblyInfoInputs.cache
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.AssemblyInfo.cs
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.csproj.CoreCompileInputs.cache
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\bin\Debug\net5.0-windows\Lab Exercise 1A.exe
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\bin\Debug\net5.0-windows\Lab Exercise 1A.deps.json
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\bin\Debug\net5.0-windows\Lab Exercise 1A.runtimeconfig.json
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\bin\Debug\net5.0-windows\Lab Exercise 1A.runtimeconfig.dev.json
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\bin\Debug\net5.0-windows\Lab Exercise 1A.dll
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\bin\Debug\net5.0-windows\ref\Lab Exercise 1A.dll
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\bin\Debug\net5.0-windows\Lab Exercise 1A.pdb
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.dll
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\ref\Lab Exercise 1A.dll
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.pdb
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.genruntimeconfig.cache
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab_Exercise_1A.Form1.resources
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.csproj.GenerateResource.cache
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\bin\Debug\net5.0-windows\MetroFramework.dll
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\obj\Debug\net5.0-windows\Lab Exercise 1A.csproj.CopyComplete

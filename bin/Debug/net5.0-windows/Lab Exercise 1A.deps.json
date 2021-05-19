@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab Exercise 1A/1.0.0": {
+        "dependencies": {
+          "MetroFramework": "1.2.0.3"
+        },
+        "runtime": {
+          "Lab Exercise 1A.dll": {}
+        }
+      },
+      "MetroFramework/1.2.0.3": {
+        "runtime": {
+          "MetroFramework.dll": {
+            "assemblyVersion": "1.2.0.3",
+            "fileVersion": "1.2.0.3"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab Exercise 1A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MetroFramework/1.2.0.3": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

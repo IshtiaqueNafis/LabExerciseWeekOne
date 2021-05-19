@@ -1,0 +1,6 @@
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\Question1A\bin\Debug\Question1A.dll
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\Question1A\bin\Debug\Question1A.pdb
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\Question1A\obj\Debug\Question1A.csprojAssemblyReference.cache
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\Question1A\obj\Debug\Question1A.csproj.CoreCompileInputs.cache
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\Question1A\obj\Debug\Question1A.dll
+C:\Users\Nafis Ishtiaque\Documents\Lab Exercise 1A\Question1A\obj\Debug\Question1A.pdb
